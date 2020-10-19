@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.2883a224.chunk.js",
-    "main.js.map": "/static/js/main.2883a224.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.72836c52.js",
-    "runtime-main.js.map": "/static/js/runtime-main.72836c52.js.map",
-    "static/js/2.891df6ae.chunk.js": "/static/js/2.891df6ae.chunk.js",
-    "static/js/2.891df6ae.chunk.js.map": "/static/js/2.891df6ae.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.574cdc8f09c2af426ca0942ef1ff31fb.js": "/precache-manifest.574cdc8f09c2af426ca0942ef1ff31fb.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.891df6ae.chunk.js.LICENSE.txt": "/static/js/2.891df6ae.chunk.js.LICENSE.txt"
+    "main.js": "/maiway-dev.io.git/static/js/main.2883a224.chunk.js",
+    "main.js.map": "/maiway-dev.io.git/static/js/main.2883a224.chunk.js.map",
+    "runtime-main.js": "/maiway-dev.io.git/static/js/runtime-main.85a73ce3.js",
+    "runtime-main.js.map": "/maiway-dev.io.git/static/js/runtime-main.85a73ce3.js.map",
+    "static/js/2.978772d4.chunk.js": "/maiway-dev.io.git/static/js/2.978772d4.chunk.js",
+    "static/js/2.978772d4.chunk.js.map": "/maiway-dev.io.git/static/js/2.978772d4.chunk.js.map",
+    "index.html": "/maiway-dev.io.git/index.html",
+    "precache-manifest.4cbc15996e359a09314be8ca4106048a.js": "/maiway-dev.io.git/precache-manifest.4cbc15996e359a09314be8ca4106048a.js",
+    "service-worker.js": "/maiway-dev.io.git/service-worker.js",
+    "static/js/2.978772d4.chunk.js.LICENSE.txt": "/maiway-dev.io.git/static/js/2.978772d4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.72836c52.js",
-    "static/js/2.891df6ae.chunk.js",
+    "static/js/runtime-main.85a73ce3.js",
+    "static/js/2.978772d4.chunk.js",
     "static/js/main.2883a224.chunk.js"
   ]
 }
