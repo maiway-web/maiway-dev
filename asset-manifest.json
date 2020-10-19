@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/maiway-web/maiway-dev.io.git/static/js/main.2883a224.chunk.js",
-    "main.js.map": "/maiway-web/maiway-dev.io.git/static/js/main.2883a224.chunk.js.map",
-    "runtime-main.js": "/maiway-web/maiway-dev.io.git/static/js/runtime-main.56a8c02b.js",
-    "runtime-main.js.map": "/maiway-web/maiway-dev.io.git/static/js/runtime-main.56a8c02b.js.map",
-    "static/js/2.8df30166.chunk.js": "/maiway-web/maiway-dev.io.git/static/js/2.8df30166.chunk.js",
-    "static/js/2.8df30166.chunk.js.map": "/maiway-web/maiway-dev.io.git/static/js/2.8df30166.chunk.js.map",
-    "index.html": "/maiway-web/maiway-dev.io.git/index.html",
-    "precache-manifest.ce4dfd710eff97dd721f782fc409f63d.js": "/maiway-web/maiway-dev.io.git/precache-manifest.ce4dfd710eff97dd721f782fc409f63d.js",
-    "service-worker.js": "/maiway-web/maiway-dev.io.git/service-worker.js",
-    "static/js/2.8df30166.chunk.js.LICENSE.txt": "/maiway-web/maiway-dev.io.git/static/js/2.8df30166.chunk.js.LICENSE.txt"
+    "main.js": "/maiway-web/jenodelgado91.io.git/static/js/main.2883a224.chunk.js",
+    "main.js.map": "/maiway-web/jenodelgado91.io.git/static/js/main.2883a224.chunk.js.map",
+    "runtime-main.js": "/maiway-web/jenodelgado91.io.git/static/js/runtime-main.09c80ec9.js",
+    "runtime-main.js.map": "/maiway-web/jenodelgado91.io.git/static/js/runtime-main.09c80ec9.js.map",
+    "static/js/2.f1ef9dd2.chunk.js": "/maiway-web/jenodelgado91.io.git/static/js/2.f1ef9dd2.chunk.js",
+    "static/js/2.f1ef9dd2.chunk.js.map": "/maiway-web/jenodelgado91.io.git/static/js/2.f1ef9dd2.chunk.js.map",
+    "index.html": "/maiway-web/jenodelgado91.io.git/index.html",
+    "precache-manifest.d8944a6e6f76da2655e9b8f529388d3f.js": "/maiway-web/jenodelgado91.io.git/precache-manifest.d8944a6e6f76da2655e9b8f529388d3f.js",
+    "service-worker.js": "/maiway-web/jenodelgado91.io.git/service-worker.js",
+    "static/js/2.f1ef9dd2.chunk.js.LICENSE.txt": "/maiway-web/jenodelgado91.io.git/static/js/2.f1ef9dd2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.56a8c02b.js",
-    "static/js/2.8df30166.chunk.js",
+    "static/js/runtime-main.09c80ec9.js",
+    "static/js/2.f1ef9dd2.chunk.js",
     "static/js/main.2883a224.chunk.js"
   ]
 }
