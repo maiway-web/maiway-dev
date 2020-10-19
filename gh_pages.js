@@ -3,7 +3,7 @@ ghpages.publish(
   "build",
   {
     branch: "master",
-    repo: "https://maiway-web.github.io/maiway-web/maiway-dev",
+    repo: "https://github.com/maiway-web/maiway-dev.github.io",
   },
   (error) => {
     if (error) {
