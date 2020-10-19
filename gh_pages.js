@@ -2,7 +2,7 @@ var ghpages = require("gh-pages");
 ghpages.publish(
   "build",
   {
-    branch: "master",
+    branch: "masterr",
     repo: "https://github.com/maiway-web/maiway-dev.github.io",
   },
   (error) => {
